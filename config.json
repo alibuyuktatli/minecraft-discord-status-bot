@@ -1,0 +1,9 @@
+{
+    "token": "token",
+    "ipAddress": "localhost",
+    "port": "25565",
+    "playersChannel": "channelid",
+    "statusChannel": "channelid",
+    "updateInterval": 300000,
+    "prefix": "!"
+}
