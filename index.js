@@ -26,7 +26,7 @@ const updateChannel = async () => {
 }
 
 client.on('ready', () => {
-    console.log(`Ready. Logged as ${client.user.tag}.`)
+    console.log(`${client.user.tag} hesabına giriş yapıldı.`)
 	updateChannel()
     setInterval(() => {
         updateChannel()
