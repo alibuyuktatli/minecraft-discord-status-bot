@@ -12,6 +12,6 @@ Sunucu bilgilerini Query yoluyla alır.
 - "config.json" dosyasını açıp gerekli kısımları düzenleyin.
 - Klasör üzerinden `$ node index.js` komutuyla botu çalıştırın 
 
-Kick yetkisine sahip roller !update (prefixi '!' olarak kullanıyorsanız) komutunu kullanarak statü bilgisini istediğimi zaman değiştirebilir.
+Kick yetkisine sahip roller !update (prefixi '!' olarak kullanıyorsanız) komutunu kullanarak statü bilgisini anlık olarak güncelleyebilir.
 
 ![](./img/img1.png)
